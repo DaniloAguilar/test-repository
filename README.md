@@ -1,3 +1,3 @@
 Arquivo de teste.
 
-Teste 2.
+Teste.
